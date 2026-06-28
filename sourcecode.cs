@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace Wasted
 {
-    [BepInPlugin("x.whiteknuckle.wastedpercent", "Wastedpercent", "1.0.1")]
+    [BepInPlugin("x.whiteknuckle.wastedpercent", "Wastedpercent", "1.0.3")]
     [BepInProcess("White Knuckle.exe")]
     public class Plugin : BaseUnityPlugin
     {
